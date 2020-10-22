@@ -44,6 +44,3 @@ Add yourself to contributors list as you contribute in present format.
 
 Feel free to contribute to content. Follow the existing Readme.md to add information.Make a pull request !!
 
-## License
-
-This repository is licensed under the MIT License - see the LICENSE.md file for details
